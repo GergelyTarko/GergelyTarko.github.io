@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/hu/blog", {data:[{writeups:[]}],fetch:{},mutations:void 0});
